@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49819555020",
+    "project_id": "skype-bec7e",
+    "storage_bucket": "skype-bec7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49819555020:android:cde98e193d963c90649e69",
+        "android_client_info": {
+          "package_name": "com.example.skype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTn57q4gj_9iwCnQYN3xDWCEETZCgEB5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49819555020:android:75ab54bd2d69973c649e69",
+        "android_client_info": {
+          "package_name": "com.example.skype_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTn57q4gj_9iwCnQYN3xDWCEETZCgEB5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
